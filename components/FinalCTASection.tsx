@@ -2,7 +2,7 @@ import ScrollReveal from './ScrollReveal'
 
 export default function FinalCTASection() {
   return (
-    <section className="bg-blue-primary relative overflow-hidden">
+    <section id="contact" className="bg-blue-primary relative overflow-hidden">
       {/* Background Abstract Pattern (Altuz Lab inspired texture) */}
       <div 
         className="absolute inset-0 opacity-10"
